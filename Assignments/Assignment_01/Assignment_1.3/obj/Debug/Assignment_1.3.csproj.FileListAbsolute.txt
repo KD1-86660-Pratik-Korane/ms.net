@@ -1,0 +1,7 @@
+E:\c#repo\Solution1\Assignment_1.3\bin\Debug\Assignment_1.3.exe.config
+E:\c#repo\Solution1\Assignment_1.3\bin\Debug\Assignment_1.3.exe
+E:\c#repo\Solution1\Assignment_1.3\bin\Debug\Assignment_1.3.pdb
+E:\c#repo\Solution1\Assignment_1.3\obj\Debug\Assignment_1.3.csproj.AssemblyReference.cache
+E:\c#repo\Solution1\Assignment_1.3\obj\Debug\Assignment_1.3.csproj.CoreCompileInputs.cache
+E:\c#repo\Solution1\Assignment_1.3\obj\Debug\Assignment_1.3.exe
+E:\c#repo\Solution1\Assignment_1.3\obj\Debug\Assignment_1.3.pdb
